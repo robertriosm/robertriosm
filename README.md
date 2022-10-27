@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a cs and ti student
+- 🔭 I’m currently a CS and TI student
 - 🌱 I’m currently learning OpenGL in python, CUDA on C++, Software Engineering, Computational Theory, Kotlin and some maths
 - 👯 I’m looking to collaborate on Web projects, front or backend
 - 🤔 I’m looking for help with Integrating testing and some nextjs backend 
